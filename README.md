@@ -1,1 +1,1 @@
-
+This machine learning model is designed to predict whether a breast tumor is benign or malignant based on various tumor features. I developed it as my final project for ZAKA.AI Artificial Intelligence Bootcamp.
